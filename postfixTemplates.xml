@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.jetbrains.php.postfixCompletion.PhpReturnPostfixTemplate#.return" key=".rt" provider="builtin.php" builtin="com.jetbrains.php.postfixCompletion.PhpReturnPostfixTemplate#.return" />
+  </component>
+</application>

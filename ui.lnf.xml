@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="ALLOW_MERGE_BUTTONS" value="false" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="smoothScrolling" value="false" />
+  </component>
+</application>

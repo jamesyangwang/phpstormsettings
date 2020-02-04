@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="make" description="make in project" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="b9656dd3-cc31-4241-914d-2f5ae6bdf8af">
+    <exec>
+      <option name="COMMAND" value="/u02/home/james.wang/bin/make.sh" />
+      <option name="PARAMETERS" value="$ProjectName$ $FileDirName$" />
+      <option name="WORKING_DIRECTORY" value="/u02/home/james.wang" />
+    </exec>
+  </tool>
+</toolSet>
