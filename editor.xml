@@ -1,0 +1,6 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Intacct_v2" />
+  <component name="EditorSettings">
+    <option name="SHOW_INLINE_DIALOG" value="false" />
+  </component>
+</application>
