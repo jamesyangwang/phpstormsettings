@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="ent" approved="true" type="DTD" />
+      <mapping ext="rpt" type="PHP" />
+      <mapping ext="menu" type="PHP" />
+      <mapping ext="bin" type="PHP" />
+      <mapping ext="qry" type="PHP" />
+      <mapping ext="cqry" type="PHP" />
+      <mapping ext="cls" type="PHP" />
+      <mapping ext="wfl" type="PHP" />
+      <mapping ext="pol" type="PHP" />
+      <mapping ext="strip" type="PLAIN_TEXT" />
+      <mapping ext="000001" type="PLAIN_TEXT" />
+      <removed_mapping ext="ent" approved="true" type="DTD" />
+    </extensionMap>
+  </component>
+</application>
