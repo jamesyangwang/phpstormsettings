@@ -1,3 +1,10 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Intacct_v2" />
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
